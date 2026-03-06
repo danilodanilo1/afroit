@@ -174,7 +174,7 @@ export default function HomeSection() {
                         <FusionAtom />
                     </div>
 
-                    <p className="mx-auto mb-8 max-w-lg text-xl leading-relaxed text-slate-300 lg:mx-0">
+                    <p className="mx-auto mb-8 max-w-lg text-xl leading-relaxed mt-10 text-slate-300 lg:mx-0">
                         A Afro.it conecta a energia transformadora da periferia com as demandas reais das empresas.
                         Criamos o match perfeito que gera valor e impacto social.
                     </p>
